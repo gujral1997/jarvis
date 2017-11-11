@@ -1,0 +1,12 @@
+ 
+            				JARVIS
+
+We have created a chatbot on API.ai platform.This platform helps to take the user query and provides some custom options to add response.Certainly,this bot is basic one and one great feature is it tells Temperature of any city by using third party bot.We were able to do this with help of a third party chatbot which tells current weather of any city all over the world and that third party bot is available on git.We executed this chatbot on Telegram.Still there are some drawbacks but we are still working on it.
+
+Steps:
+
+1)Open Telegram
+2)Search for JarveesBot(case sensitive)
+3)Select the bot and the chat box will appear.
+4)Click on Start pannel at the bottom.
+5)Chat will start.
