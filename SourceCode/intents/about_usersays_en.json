@@ -1,0 +1,74 @@
+[
+  {
+    "id": "94360075-7916-43d7-9e9d-bf6879d20d4c",
+    "data": [
+      {
+        "text": "Please elaborate yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509142493
+  },
+  {
+    "id": "089f6569-2393-4b70-99ec-2ae73206fef5",
+    "data": [
+      {
+        "text": "let\u0027s talk about you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506475996
+  },
+  {
+    "id": "2b06c9df-d068-47f1-b534-055dd3f091a7",
+    "data": [
+      {
+        "text": "talk about yourself please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506475996
+  },
+  {
+    "id": "1af125b9-b3b0-4cff-a09e-ea1198617ee8",
+    "data": [
+      {
+        "text": "can you tell me a little about yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506475996
+  },
+  {
+    "id": "7f30e5aa-961f-48dd-ba73-023a88bf3576",
+    "data": [
+      {
+        "text": "could you tell me about yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506475996
+  },
+  {
+    "id": "2e2f3cc9-9d48-426c-87ed-a609d8a49770",
+    "data": [
+      {
+        "text": "tell me about yourself",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506475996
+  }
+]

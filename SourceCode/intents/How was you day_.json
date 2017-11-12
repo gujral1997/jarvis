@@ -1,0 +1,37 @@
+{
+  "id": "99eddcb0-0c90-4377-986c-20bdda241cd2",
+  "name": "How was you day?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "It could not be better.",
+            "It was awsome.",
+            "It was nice.",
+            "It was great day! I worked out at the gym, went with my mom and sis to the mall, then went with my friend to meet our professor at the hotel. It was so fun socializing. Great day!",
+            "very busy and very boring .. .. but in end very cool :)",
+            "Great Day as usual in South Australia!\u003cbr /\u003e\n\u003cbr /\u003e\nGreat People,Great food,...what else do I need?",
+            "i woke up almost an hour ago and seems not good..maybe later heh..",
+            "Good and bad. I made some hard decisions 2day"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509145550735,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,134 @@
+{
+  "id": "8245d67f-8938-405f-b35e-a57d432b3f76",
+  "name": "cv",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cv",
+      "affectedContexts": [
+        {
+          "name": "see-portfolio",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "kik",
+          "lang": "en",
+          "speech": [
+            "Here you are.",
+            "Here you go.",
+            "Sure."
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "kik",
+          "lang": "en",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/ProfileBot_CV.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "kik",
+          "lang": "en",
+          "title": "Would you like to see my portfolio as well?",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": [
+            "Here you are.",
+            "Here you go.",
+            "Sure."
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/ProfileBot_CV.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "title": "Would you like to see my portfolio as well?",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "lang": "en",
+          "speech": [
+            "Here you are.",
+            "Here you go.",
+            "Sure."
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "slack",
+          "lang": "en",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/ProfileBot_CV.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "slack",
+          "lang": "en",
+          "title": "Would you like to see my portfolio as well?",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "Here you are.",
+            "Here you go.",
+            "Sure."
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/ProfileBot_CV.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Would you like to see my portfolio as well?",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509145550720,
+  "fallbackIntent": false,
+  "events": []
+}

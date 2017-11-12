@@ -1,0 +1,62 @@
+[
+  {
+    "id": "783d4b10-906a-409a-9a9d-40ea505e6a6d",
+    "data": [
+      {
+        "text": "do you have a portfolio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476268
+  },
+  {
+    "id": "d6aac216-e781-4d3e-9a9f-99e6c7a8931f",
+    "data": [
+      {
+        "text": "I\u0027d like to take a look at your portfolio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476268
+  },
+  {
+    "id": "4981cae2-2e93-4cd4-a686-2e1770f90d6c",
+    "data": [
+      {
+        "text": "could you show me your latest works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476268
+  },
+  {
+    "id": "2bc9c50f-ec8e-45e4-b5ae-2fc15d3d113c",
+    "data": [
+      {
+        "text": "may I see your portfolio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476268
+  },
+  {
+    "id": "b700e158-d723-4104-a30e-d0020e10edc5",
+    "data": [
+      {
+        "text": "show me your portfolio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476268
+  }
+]

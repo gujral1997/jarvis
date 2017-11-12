@@ -1,0 +1,28 @@
+{
+  "id": "70cba9dd-23c8-40d9-b944-c2088c85bc3d",
+  "name": "Looks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509163274778,
+  "fallbackIntent": false,
+  "events": []
+}

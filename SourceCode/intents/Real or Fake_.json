@@ -1,0 +1,28 @@
+{
+  "id": "c431abd2-7973-4d9e-a16e-21e2abfc947d",
+  "name": "Real or Fake?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509143727,
+  "fallbackIntent": false,
+  "events": []
+}

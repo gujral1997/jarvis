@@ -1,0 +1,136 @@
+{
+  "id": "ebe47679-4c4f-4289-8f39-f02c2359bd60",
+  "name": "about",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi  My name is Jarvis. I am n chat-bot assistant.",
+            "Jarvis here, ready to assist you!"
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "kik",
+          "lang": "en",
+          "speech": [
+            "My name is Bob. I am 25. I’m a professional florist. I like flowers and I like creating beautiful things.",
+            "I am Bob. I am 25 years old and I\u0027m a professional florist. I like creating beautiful things and sharing them with the others."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "kik",
+          "lang": "en",
+          "speech": [
+            "Here I am.",
+            "Here\u0027s how I look like.",
+            "That\u0027s me.",
+            "Here I am. How do you like me?"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "kik",
+          "lang": "en",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/ProfileBot_Bob.gif"
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": [
+            "My name is Bob. I am 25. I’m a professional florist. I like flowers and I like creating beautiful things.",
+            "I am Bob. I am 25 years old and I\u0027m a professional florist. I like creating beautiful things and sharing them with the others."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": [
+            "Here I am.",
+            "Here\u0027s how I look like.",
+            "That\u0027s me.",
+            "Here I am. How do you like me?"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/ProfileBot_Bob.gif"
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "lang": "en",
+          "speech": [
+            "My name is Bob. I am 25. I’m a professional florist. I like flowers and I like creating beautiful things.",
+            "I am Bob. I am 25 years old and I\u0027m a professional florist. I like creating beautiful things and sharing them with the others."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "lang": "en",
+          "speech": [
+            "Here I am.",
+            "Here\u0027s how I look like.",
+            "That\u0027s me.",
+            "Here I am. How do you like me?"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "slack",
+          "lang": "en",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/ProfileBot_Bob.gif"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "My name is Bob. I am 25. I’m a professional florist. I like flowers and I like creating beautiful things.",
+            "I am Bob. I am 25 years old and I\u0027m a professional florist. I like creating beautiful things and sharing them with the others."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "Here I am.",
+            "Here\u0027s how I look like.",
+            "That\u0027s me.",
+            "Here I am. How do you like me?"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/ProfileBot_Bob.gif"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509145550733,
+  "fallbackIntent": false,
+  "events": []
+}

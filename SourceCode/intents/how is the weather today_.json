@@ -1,0 +1,37 @@
+{
+  "id": "7d37c6bd-2cf9-49e8-8aab-28468ab2e67e",
+  "name": "how is the weather today?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "yahooWeatherForecast",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2daa68b2-9000-437e-b1b0-580320d53670",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "weather is cool!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509150266864,
+  "fallbackIntent": false,
+  "events": []
+}

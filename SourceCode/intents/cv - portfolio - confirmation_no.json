@@ -1,0 +1,100 @@
+{
+  "id": "d71b68fd-3c83-4352-a1cc-118b3ec16cb5",
+  "name": "cv - portfolio - confirmation:no",
+  "auto": true,
+  "contexts": [
+    "see-portfolio"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "cv.confirmation.no",
+      "affectedContexts": [
+        {
+          "name": "see-portfolio",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "kik",
+          "lang": "en",
+          "speech": [
+            "As you wish.",
+            "Whenever you\u0027re ready.",
+            "It\u0027s beautiful. We can have a look at it whenever you\u0027re ready.",
+            "Okay, just tell me when you\u0027re ready."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "kik",
+          "lang": "en",
+          "speech": "😉"
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": [
+            "As you wish.",
+            "Whenever you\u0027re ready.",
+            "It\u0027s beautiful. We can have a look at it whenever you\u0027re ready.",
+            "Okay, just tell me when you\u0027re ready."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": "😉"
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "lang": "en",
+          "speech": [
+            "As you wish.",
+            "Whenever you\u0027re ready.",
+            "It\u0027s beautiful. We can have a look at it whenever you\u0027re ready.",
+            "Okay, just tell me when you\u0027re ready."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "lang": "en",
+          "speech": "😉"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "As you wish.",
+            "Whenever you\u0027re ready.",
+            "It\u0027s beautiful. We can have a look at it whenever you\u0027re ready.",
+            "Okay, just tell me when you\u0027re ready."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "😉"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509145550714,
+  "fallbackIntent": false,
+  "events": []
+}

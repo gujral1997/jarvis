@@ -1,0 +1,33 @@
+{
+  "id": "7cf06c84-cbe7-4feb-9250-8819b4b147bf",
+  "name": "Tell me about yourself?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "This is Jarvis, A Chatbot..",
+            "Hi There! My name is Jarvis, I am a chatBot."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509162970,
+  "fallbackIntent": false,
+  "events": []
+}

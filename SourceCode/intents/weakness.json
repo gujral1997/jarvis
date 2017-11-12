@@ -1,0 +1,156 @@
+{
+  "id": "c8415308-896d-4449-a8f8-a5ef2f80aa21",
+  "name": "weakness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weakness",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "kik",
+          "lang": "en",
+          "speech": [
+            "I\u0027m lazy.",
+            "I am a little bit lazy.",
+            "I\u0027m a lazy guy."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "kik",
+          "lang": "en",
+          "speech": "😜"
+        },
+        {
+          "type": 0,
+          "platform": "kik",
+          "lang": "en",
+          "speech": [
+            "But it\u0027s a secret.",
+            "Let\u0027s keep it a secret.",
+            "Don\u0027t tell anyone.",
+            ""
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "kik",
+          "lang": "en",
+          "speech": "😇"
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": [
+            "I\u0027m lazy.",
+            "I am a little bit lazy.",
+            "I\u0027m a lazy guy."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": [
+            "😜",
+            ""
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": [
+            "But it\u0027s a secret.",
+            "Let\u0027s keep it a secret.",
+            "Don\u0027t tell anyone."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": "😇"
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "lang": "en",
+          "speech": [
+            "I\u0027m lazy.",
+            "I am a little bit lazy.",
+            "I\u0027m a lazy guy."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "lang": "en",
+          "speech": "😜"
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "lang": "en",
+          "speech": [
+            "But it\u0027s a secret.",
+            "Let\u0027s keep it a secret.",
+            "Don\u0027t tell anyone."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "lang": "en",
+          "speech": "😇"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "I\u0027m lazy.",
+            "I am a little bit lazy.",
+            "I\u0027m a lazy guy."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "😜"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "But it\u0027s a secret.",
+            "Let\u0027s keep it a secret.",
+            "Don\u0027t tell anyone."
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "😇"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509145550711,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "475a566f-9ed4-464f-82ea-06eede908413",
+  "name": "Whats your name? ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "163557d3-6e58-43ec-852a-e4bac8bd441c",
+          "required": false,
+          "dataType": "",
+          "name": "name",
+          "value": "Cody",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "cody",
+            "I am cody"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509150266866,
+  "fallbackIntent": false,
+  "events": []
+}

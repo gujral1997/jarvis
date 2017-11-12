@@ -1,0 +1,36 @@
+[
+  {
+    "id": "b8aaa507-e5c0-4ef8-bec3-eff06d1b2cfd",
+    "data": [
+      {
+        "text": "what is weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "punjab",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509148468
+  },
+  {
+    "id": "170bd247-b2dd-4f39-8f28-db1e58bec931",
+    "data": [
+      {
+        "text": "how is the weather today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

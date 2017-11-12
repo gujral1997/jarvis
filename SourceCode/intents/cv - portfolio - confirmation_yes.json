@@ -1,0 +1,173 @@
+{
+  "id": "f87cf751-29ab-415b-b2d7-2781edb03d7e",
+  "name": "cv - portfolio - confirmation:yes",
+  "auto": true,
+  "contexts": [
+    "see-portfolio"
+  ],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "cv.confirmation.yes",
+      "affectedContexts": [
+        {
+          "name": "confirmation",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "see-portfolio",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "kik",
+          "lang": "en",
+          "speech": [
+            "Here! Take a look at my latest works.",
+            "Here are my latest works, take a look!",
+            "Here are my latest pieces, hope you\u0027ll like them!"
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "kik",
+          "lang": "en",
+          "title": "Sunny Day",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_1.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "kik",
+          "lang": "en",
+          "title": "Charmed",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_2.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "kik",
+          "lang": "en",
+          "title": "Fabulous You",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_3.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "en",
+          "speech": [
+            "Here! Take a look at my latest works.",
+            "Here are my latest works, take a look!",
+            "Here are my latest pieces, hope you\u0027ll like them!"
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "title": "Sunny Day",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_1.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "title": "Charmed",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_2.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "title": "Fabulous You",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_3.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "slack",
+          "lang": "en",
+          "speech": [
+            "Here! Take a look at my latest works.",
+            "Here are my latest works, take a look!",
+            "Here are my latest pieces, hope you\u0027ll like them!"
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "slack",
+          "lang": "en",
+          "title": "Sunny Day",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_1.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "slack",
+          "lang": "en",
+          "title": "Charmed",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_2.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "slack",
+          "lang": "en",
+          "title": "Fabulous You",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_3.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "Here! Take a look at my latest works.",
+            "Here are my latest works, take a look!",
+            "Here are my latest pieces, hope you\u0027ll like them!"
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Sunny Day",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_1.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Charmed",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_2.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Fabulous You",
+          "imageUrl": "https://api.ai/docs/images/samples/for-agents/agent-store/Flowers_3.jpg",
+          "buttons": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509145550722,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "adaae5c0-b2d0-4dc8-b2d8-f5fc9ad0da4a",
+    "data": [
+      {
+        "text": "do you have a CV",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476060
+  },
+  {
+    "id": "1c7cd010-2022-4f26-81b8-8316407d21d8",
+    "data": [
+      {
+        "text": "I\u0027d like to take a look at your CV",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476060
+  },
+  {
+    "id": "42a380ea-2439-471d-a297-0d7068ca5c80",
+    "data": [
+      {
+        "text": "could you show me your curriculum vitae",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476060
+  },
+  {
+    "id": "c6546e1a-0ed3-4091-923e-d6e6e6a62125",
+    "data": [
+      {
+        "text": "may I take a look at your resume",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476060
+  },
+  {
+    "id": "87073cd3-14af-4682-bf40-f2589e4b1296",
+    "data": [
+      {
+        "text": "show me your curriculum vitae",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476060
+  },
+  {
+    "id": "c5546a58-d4d3-4864-9c15-ed1749a87c32",
+    "data": [
+      {
+        "text": "show me your CV",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476060
+  }
+]

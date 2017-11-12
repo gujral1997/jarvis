@@ -1,0 +1,26 @@
+[
+  {
+    "id": "06424c5f-0c9c-4553-ab09-4d40b1e0269a",
+    "data": [
+      {
+        "text": "How\u0027s been your day today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509141070
+  },
+  {
+    "id": "de08e7ef-e090-423c-ba45-1d6690a1ecac",
+    "data": [
+      {
+        "text": "How was your day?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1509141070
+  }
+]

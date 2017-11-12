@@ -1,0 +1,28 @@
+{
+  "id": "fd051a30-649c-4822-91a2-2fe028ca6c66",
+  "name": "/start",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi there! This is Jarvis, Your personal assistant."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509162300,
+  "fallbackIntent": false,
+  "events": []
+}

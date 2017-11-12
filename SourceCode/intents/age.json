@@ -1,0 +1,31 @@
+{
+  "id": "f469a84b-8789-4d64-ae04-143fdae81bcc",
+  "name": "age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I was just made during last night by Ansh and Tushar..:p",
+            "I am just one day old!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509163242,
+  "fallbackIntent": false,
+  "events": []
+}

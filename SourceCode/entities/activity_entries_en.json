@@ -1,0 +1,133 @@
+[
+  {
+    "value": "cycling",
+    "synonyms": [
+      "cycling",
+      "ride my bike",
+      "riding a bike",
+      "ride"
+    ]
+  },
+  {
+    "value": "run",
+    "synonyms": [
+      "running"
+    ]
+  },
+  {
+    "value": "jogging",
+    "synonyms": [
+      "jogging"
+    ]
+  },
+  {
+    "value": "skiing",
+    "synonyms": [
+      "skiing"
+    ]
+  },
+  {
+    "value": "snowboarding",
+    "synonyms": [
+      "snowboarding"
+    ]
+  },
+  {
+    "value": "swimming",
+    "synonyms": [
+      "swimming"
+    ]
+  },
+  {
+    "value": "hiking",
+    "synonyms": [
+      "hiking"
+    ]
+  },
+  {
+    "value": "skating",
+    "synonyms": [
+      "skating"
+    ]
+  },
+  {
+    "value": "parasailing",
+    "synonyms": [
+      "parasailing"
+    ]
+  },
+  {
+    "value": "mushroom hunting",
+    "synonyms": [
+      "mushroom hunting"
+    ]
+  },
+  {
+    "value": "sightseeing",
+    "synonyms": [
+      "sightseeing"
+    ]
+  },
+  {
+    "value": "snowball fighting",
+    "synonyms": [
+      "snowball fighting",
+      "snowball fights",
+      "snowball fight"
+    ]
+  },
+  {
+    "value": "birdwatching",
+    "synonyms": [
+      "birdwatching"
+    ]
+  },
+  {
+    "value": "tree climbing",
+    "synonyms": [
+      "tree climbing"
+    ]
+  },
+  {
+    "value": "elephant safari",
+    "synonyms": [
+      "elephant safari"
+    ]
+  },
+  {
+    "value": "kayaking",
+    "synonyms": [
+      "kayaking"
+    ]
+  },
+  {
+    "value": "mountain biking",
+    "synonyms": [
+      "mountain biking"
+    ]
+  },
+  {
+    "value": "frisbee",
+    "synonyms": [
+      "frisbee"
+    ]
+  },
+  {
+    "value": "walking",
+    "synonyms": [
+      "walking"
+    ]
+  },
+  {
+    "value": "climbing",
+    "synonyms": [
+      "climbing"
+    ]
+  },
+  {
+    "value": "surfing",
+    "synonyms": [
+      "surfing"
+    ]
+  }
+]

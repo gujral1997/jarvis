@@ -1,0 +1,62 @@
+[
+  {
+    "id": "2b230883-24b1-4744-9f22-5664456c4c52",
+    "data": [
+      {
+        "text": "do you have weak points",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476358
+  },
+  {
+    "id": "28c536e6-0327-4a9d-a561-96f190ccd279",
+    "data": [
+      {
+        "text": "could you tell me about your biggest weakness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476358
+  },
+  {
+    "id": "f6dcd4c3-2942-4ec5-9a36-ae1e8a80c06f",
+    "data": [
+      {
+        "text": "tell me about your weaknesses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476358
+  },
+  {
+    "id": "1e5971ce-a1b2-4068-823d-793393f5c7f8",
+    "data": [
+      {
+        "text": "what are your weaknesses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476358
+  },
+  {
+    "id": "1ee7d658-6297-4971-bfaa-7f39e9e9ac59",
+    "data": [
+      {
+        "text": "what is your biggest weakness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1506476358
+  }
+]

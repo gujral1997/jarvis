@@ -1,0 +1,28 @@
+{
+  "id": "f8c6032c-4318-4b89-a20f-743aaef3120a",
+  "name": "when is my birthday?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am extremely sorry because I am not aware of that"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1509153835370,
+  "fallbackIntent": false,
+  "events": []
+}
